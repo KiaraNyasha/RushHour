@@ -82,8 +82,8 @@
 		<Translation ID="OptionTooltip_FixInactiveBuildings" String="Включает фикс для остановки неактивности коммерческих зданий. Отключайте только если у вас большие проблем с этим в городе" />
 		<Translation ID="Option_ClearEvents" String="ЭКСПЕРИМЕНТАЛЬНО: Прекратить все мероприятия в городе" />
 		<Translation ID="OptionTooltip_ClearEvents" String="Завершает все активные мероприятия в городе. Это не вернет вам деньги за них" />
-		<Translation ID="Option_EditEvents" String="EXPERIMENTAL: Show event editor (Windows only)" /> 								<!-- TRANSLATE ME! DELETE COMMENT WHEN DONE! -->
-		<Translation ID="OptionTooltip_EditEvents" String="Load the external standalone event editor to easily edit events." />		<!-- TRANSLATE ME! DELETE COMMENT WHEN DONE! -->
+		<Translation ID="Option_EditEvents" String="ЭКСПЕРИМЕНТАЛЬНО: Показать редактор мероприятий (Только Windows)" />
+		<Translation ID="OptionTooltip_EditEvents" String="Загрузить расширенный отдельный редактор мероприятий для легкого редактирования." />	
 		<Translation ID="Option_PrintMonuments" String="РАЗРАБОТЧИКАМ: Вывести все уникальные здания города в консоль" />
 		<Translation ID="OptionTooltip_PrintMonuments" String="Вывести названия всех уникальных зданий города в консоль. Используйте только для создания своего события" />
 		<Translation ID="Option_ForceXMLEnabled" String="РАЗРАБОТЧИКАМ: Включить &quot;принудительный&quot; XML параметр для немедленного создания выбранного события" />
